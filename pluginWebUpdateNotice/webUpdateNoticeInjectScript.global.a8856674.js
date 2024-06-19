@@ -16,5 +16,5 @@
 
   window.__checkUpdateSetup__({"logVersion":true,"injectFileBase":"./"});
       ;const logFn = function pt(t,s){console.log(`version: %c${t}`,"color: #1677ff"),console.log(`release time: %c${new Date(s).toLocaleString()}`,"color: #1677ff")}
-      ;logFn('8f18824', 1718772957859)
+      ;logFn('e6cb68b', 1718779127829)
     
